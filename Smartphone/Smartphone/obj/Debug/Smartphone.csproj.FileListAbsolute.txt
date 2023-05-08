@@ -1,0 +1,10 @@
+C:\Users\naima\source\repos\Smartphone\Smartphone\bin\Debug\Smartphone.exe.config
+C:\Users\naima\source\repos\Smartphone\Smartphone\bin\Debug\Smartphone.exe
+C:\Users\naima\source\repos\Smartphone\Smartphone\bin\Debug\Smartphone.pdb
+C:\Users\naima\source\repos\Smartphone\Smartphone\obj\Debug\Smartphone.csproj.AssemblyReference.cache
+C:\Users\naima\source\repos\Smartphone\Smartphone\obj\Debug\Smartphone.Form1.resources
+C:\Users\naima\source\repos\Smartphone\Smartphone\obj\Debug\Smartphone.Properties.Resources.resources
+C:\Users\naima\source\repos\Smartphone\Smartphone\obj\Debug\Smartphone.csproj.GenerateResource.cache
+C:\Users\naima\source\repos\Smartphone\Smartphone\obj\Debug\Smartphone.csproj.CoreCompileInputs.cache
+C:\Users\naima\source\repos\Smartphone\Smartphone\obj\Debug\Smartphone.exe
+C:\Users\naima\source\repos\Smartphone\Smartphone\obj\Debug\Smartphone.pdb
